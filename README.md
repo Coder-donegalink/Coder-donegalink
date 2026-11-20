@@ -7,7 +7,7 @@
 ### Cloud | DevOps | AWS | Engenharia de Software
 
 
-- Technologies learned: HTML | CSS | JavaScript | Bootstrap | Figma | Git & Github | VS CODE | My SQL | Engenharia de Software
+- Technologies learned: Cloud Computing & DevOps | AWS • Linux • Docker • Git • SQL | Engenharia de Software | Governança & FinOps
 
 
 <div>
