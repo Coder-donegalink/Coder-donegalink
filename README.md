@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner GIF salvo na raiz do seu repositório Coder-donegalink/Coder-donegalink -->
-  <img src="https://github.com/Coder-donegalink/Coder-donegalink/blob/main/cloud-devops-banner.gif?raw=true" width="460" alt="Cloud, DevOps & Cybersecurity Banner" />
+  <img src="https://github.com/Coder-donegalink/Coder-donegalink/blob/main/cloud-devops-ai-banner.gif?raw=true" width="520" alt="Cloud, DevOps, Security & AI Banner" />
 
   <h1>Hi there, I'm Tiago Donega 👋</h1>
 
