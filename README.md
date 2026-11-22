@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Novo Banner GIF (lembre-se de subir o arquivo com o nome cloud-devops-ai-banner.gif na raiz do repositório) -->
-  <img src="https://github.com/Coder-donegalink/Coder-donegalink/blob/main/cloud-devops-ai-banner.gif?raw=true" width="520" alt="Cloud, DevOps, Security & AI Banner" />
+  <!-- Banner GIF salvo na raiz do repositório tiago-donega-cloud/tiago-donega-cloud -->
+  <img src="https://github.com/tiago-donega-cloud/tiago-donega-cloud/blob/main/cloud-devops-ai-banner.gif?raw=true" width="520" alt="Cloud, DevOps, Security & AI Banner" />
 
   <h1>Hi there, I'm Tiago Donega 👋</h1>
 
@@ -35,7 +35,7 @@
 
 - ☁️ **Cloud Infrastructure & Architecture:** Designing fault-tolerant, scalable, and cost-optimized architectures on **AWS** and **GCP** (VPC, Subnets, IAM, EC2, S3, RDS, Load Balancers, Auto Scaling, CloudWatch).
 - ⚙️ **DevOps, Containers & IaC:** Automating infrastructure provisioning, configuration management, and CI/CD pipelines using **Linux**, **Docker**, **Kubernetes**, **Terraform**, **Ansible**, and **GitHub Actions**.
-- 🔐 **Cybersecurity & Cloud Governance:** Implementing *Security by Design*, Zero Trust access controls, IAM least-privilege policies, OS/network hardening, vulnerability analysis, and **LGPD/GDPR** compliance.
+- 🔐 **Cybersecurity & Cloud Governance:** Implementing *Security by Design*, Zero Trust access controls, IAM least-privilege policies, OS/network hardening, vulnerability analysis, and **LGPD/GDPR** regulatory compliance.
 - 🤖 **Data Engineering & AI Automation:** Building structured **SQL/Python** pipelines and integrating **AI Agents** to streamline troubleshooting, observability, and operational workflows.
 
 ---
@@ -134,8 +134,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coder-donegalink/Coder-donegalink/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Coder-donegalink/Coder-donegalink/output/github-contribution-grid-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Coder-donegalink/Coder-donegalink/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiago-donega-cloud/tiago-donega-cloud/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiago-donega-cloud/tiago-donega-cloud/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tiago-donega-cloud/tiago-donega-cloud/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
