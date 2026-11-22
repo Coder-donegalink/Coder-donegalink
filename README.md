@@ -1,17 +1,17 @@
 <div align="center">
 
-  <!-- Banner GIF salvo na raiz do seu repositório Coder-donegalink/Coder-donegalink -->
+  <!-- Novo Banner GIF (lembre-se de subir o arquivo com o nome cloud-devops-ai-banner.gif na raiz do repositório) -->
   <img src="https://github.com/Coder-donegalink/Coder-donegalink/blob/main/cloud-devops-ai-banner.gif?raw=true" width="520" alt="Cloud, DevOps, Security & AI Banner" />
 
   <h1>Hi there, I'm Tiago Donega 👋</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer+%7C+AWS+%26+Linux;Cloud+Architecture%2C+IaC+%26+Automation;Cybersecurity%2C+Governance+%26+FinOps;Data+Engineering+%26+AI+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Cloud+%26+DevOps+Engineer+%7C+AWS+%26+Linux;Cloud+Architecture%2C+IaC+%26+Automation;Cybersecurity%2C+Governance+%26+FinOps;Data+Engineering+%26+AI+Automation" alt="Typing SVG" />
   </a>
 
   <p>
-    Designing resilient, secure, and automated cloud infrastructures.<br/>
-    Focused on <strong>Cloud Architecture (AWS/GCP)</strong>, <strong>DevSecOps</strong>, <strong>Cybersecurity &amp; Compliance</strong>, and <strong>AI-driven Automation</strong>.
+    Cloud &amp; DevOps Engineer passionate about designing <strong>resilient, secure, and automated infrastructures</strong>.<br/>
+    Combining <strong>Cloud Architecture (AWS/GCP)</strong>, <strong>Infrastructure as Code (IaC)</strong>, <strong>DevSecOps</strong>, and <strong>AI-driven Automation</strong> to build scalable environments with high availability, regulatory compliance, and FinOps cost efficiency.
   </p>
 
   <!-- Badges de Contato -->
@@ -31,12 +31,12 @@
 
 ---
 
-### 🚀 Focus Areas & Engineering Pillars
+### 🚀 Core Competencies & Engineering Pillars
 
-- ☁️ **Cloud Infrastructure & Architecture:** Designing highly available, scalable, and cost-optimized environments on **AWS** and **GCP** (VPC, IAM, EC2, S3, RDS, ELB, Auto Scaling, CloudWatch).
-- ⚙️ **DevOps, Containers & IaC:** Automating provisioning, configuration, and CI/CD pipelines with **Linux**, **Docker**, **Kubernetes**, **Terraform**, **Git**, and **Shell Scripting**.
-- 🔐 **Cybersecurity & Governance:** Applying Zero Trust principles, IAM least-privilege policies, OS/network hardening, vulnerability mitigation, and **LGPD/GDPR** regulatory compliance.
-- 🤖 **Data & AI Automation:** Building SQL/Python data workflows and leveraging **AI Agents** to accelerate infrastructure troubleshooting and operational efficiency.
+- ☁️ **Cloud Infrastructure & Architecture:** Designing fault-tolerant, scalable, and cost-optimized architectures on **AWS** and **GCP** (VPC, Subnets, IAM, EC2, S3, RDS, Load Balancers, Auto Scaling, CloudWatch).
+- ⚙️ **DevOps, Containers & IaC:** Automating infrastructure provisioning, configuration management, and CI/CD pipelines using **Linux**, **Docker**, **Kubernetes**, **Terraform**, **Ansible**, and **GitHub Actions**.
+- 🔐 **Cybersecurity & Cloud Governance:** Implementing *Security by Design*, Zero Trust access controls, IAM least-privilege policies, OS/network hardening, vulnerability analysis, and **LGPD/GDPR** compliance.
+- 🤖 **Data Engineering & AI Automation:** Building structured **SQL/Python** pipelines and integrating **AI Agents** to streamline troubleshooting, observability, and operational workflows.
 
 ---
 
@@ -44,15 +44,87 @@
 
 <div align="center">
 
-  **Cloud, OS & Infrastructure**  
-  <br/>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,linux,ubuntu,docker,kubernetes,terraform,cloudflare" alt="Cloud and Infrastructure Stack" />
-
+  <strong>Cloud, Operating Systems &amp; Infrastructure</strong>
   <br/><br/>
 
-  **Automation, CI/CD, Data & Observability**  
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="44" height="44" alt="AWS" /><br/>
+        <sub><b>AWS</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gcp" width="44" height="44" alt="GCP" /><br/>
+        <sub><b>GCP</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="44" height="44" alt="Linux" /><br/>
+        <sub><b>Linux</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="44" height="44" alt="Ubuntu" /><br/>
+        <sub><b>Ubuntu</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="44" height="44" alt="Docker" /><br/>
+        <sub><b>Docker</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="44" height="44" alt="Kubernetes" /><br/>
+        <sub><b>Kubernetes</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=terraform" width="44" height="44" alt="Terraform" /><br/>
+        <sub><b>Terraform</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cloudflare" width="44" height="44" alt="Cloudflare" /><br/>
+        <sub><b>Cloudflare</b></sub>
+      </td>
+    </tr>
+  </table>
+
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,githubactions,python,bash,postgres,mysql,grafana,prometheus" alt="Automation and Data Stack" />
+
+  <strong>Automation, CI/CD, Data &amp; Observability</strong>
+  <br/><br/>
+
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" /><br/>
+        <sub><b>Git</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="44" height="44" alt="GitHub Actions" /><br/>
+        <sub><b>CI/CD</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="44" height="44" alt="Python" /><br/>
+        <sub><b>Python</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="44" height="44" alt="Bash" /><br/>
+        <sub><b>Bash / Shell</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" /><br/>
+        <sub><b>PostgreSQL</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="44" height="44" alt="MySQL" /><br/>
+        <sub><b>MySQL</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=grafana" width="44" height="44" alt="Grafana" /><br/>
+        <sub><b>Grafana</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=prometheus" width="44" height="44" alt="Prometheus" /><br/>
+        <sub><b>Prometheus</b></sub>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
