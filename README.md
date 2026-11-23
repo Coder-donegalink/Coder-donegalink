@@ -34,11 +34,11 @@
 ### 🚀 Core Competencies & Engineering Pillars
 
 - ☁️ **Cloud Infrastructure & Architecture:** Designing fault-tolerant, scalable, and cost-optimized architectures on **AWS** and **GCP** (VPC, Subnets, IAM, EC2, S3, RDS, Load Balancers, Auto Scaling, CloudWatch).
-- 
+  
 - ⚙️ **DevOps, Containers & IaC:** Automating infrastructure provisioning, configuration management, and CI/CD pipelines using **Linux**, **Docker**, **Kubernetes**, **Terraform**, **Ansible**, and **GitHub Actions**.
-- 
+  
 - 🔐 **Cybersecurity & Cloud Governance:** Implementing *Security by Design*, Zero Trust access controls, IAM least-privilege policies, OS/network hardening, vulnerability analysis, and **LGPD/GDPR** regulatory compliance.
-- 
+  
 - 🤖 **Data Engineering & AI Automation:** Building structured **SQL/Python** pipelines and integrating **AI Agents** to streamline troubleshooting, observability, and operational workflows.
 
 ---
